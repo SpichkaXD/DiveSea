@@ -1,0 +1,5 @@
+.header__links {
+    width: 445px;
+    display: flex;
+    gap: 54px;
+}

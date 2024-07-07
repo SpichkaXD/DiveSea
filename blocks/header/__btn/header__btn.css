@@ -1,0 +1,17 @@
+.header__btn {
+width: 200px;
+height: 58px;
+text-align: center;
+color: white;
+background: #141416;
+border-radius: 20px;
+font-family: Inter;
+font-size: 16.17px;
+font-weight: 600;
+line-height: 24.26px;
+}
+
+.header__btn:hover {
+    cursor: pointer;
+    
+}

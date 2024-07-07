@@ -1,0 +1,8 @@
+.header__search-container {
+    display: flex;
+    width: 348px;
+    height: 58px;
+    background-color: #EDEDED;
+    border-radius: 20px;
+    align-items: center;
+}
