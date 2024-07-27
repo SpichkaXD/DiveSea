@@ -1,0 +1,6 @@
+.topnft__slider-container {
+    position: relative;
+    width: 80%;
+    max-width: 800px;
+    overflow: hidden;  
+}

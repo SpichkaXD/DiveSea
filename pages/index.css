@@ -32,6 +32,23 @@
 @import url(../blocks/intro/__status-subtitle/intro__status-subtitle.css);
 @import url(../blocks/intro/__img/intro__img.css);
 
+@import url(../blocks/topnft/topnft.css);
+@import url(../blocks/topnft/);
+@import url(../blocks/topnft/__title/topnft__title.css);
+@import url(../blocks/topnft/__slider-container/topnft__slider-container.css);
+@import url(../blocks/topnft/__card/topnft__card.css);
+@import url(../blocks/topnft/__card-img/topnft__card-img.css);
+@import url(../blocks/topnft/__card-title/topnft__card-title.css);
+@import url(../blocks/topnft/__card-container/topnft__card-container.css);
+@import url(../blocks/topnft/__card-price/topnft__card-price.css);
+@import url(../blocks/topnft/__card-subtitle/topnft__card-subtitle.css);
+@import url(../blocks/topnft/__card-price-img/topnft__card-price-img.css);
+@import url(../blocks/topnft/__card-price-total/topnft__card-price-total.css);
+@import url(../blocks/topnft/__card-btn-buy/topnft__card-btn-buy.css);
+@import url(../blocks/topnft/__btn-container/topnft__btn-container.css);
+@import url(../blocks/topnft/__btn/topnft__btn.css);
+
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__logo/footer__logo.css);

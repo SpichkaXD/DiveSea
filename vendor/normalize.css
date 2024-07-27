@@ -363,6 +363,6 @@ input {
     border: none;
 }
 
-p, h4 {
+p, h4, h2 {
     margin: 0;
 }
