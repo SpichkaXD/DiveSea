@@ -1,0 +1,14 @@
+.footer__links {
+    width: 635px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Inter;
+    font-size: 17.83px;
+    font-weight: 500;
+    line-height: 26.74px;
+    text-align: left;
+}
+
+.footer__links--small {
+    width: 235px;
+}

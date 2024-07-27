@@ -75,6 +75,7 @@ pre {
 
 a {
     background-color: transparent;
+    text-decoration: none;
 }
 
 /**
@@ -147,6 +148,7 @@ sup {
 
 img {
     border-style: none;
+    vertical-align: middle;
 }
 
 /* Forms
@@ -359,4 +361,8 @@ ul {
 
 input {
     border: none;
+}
+
+p, h4 {
+    margin: 0;
 }
