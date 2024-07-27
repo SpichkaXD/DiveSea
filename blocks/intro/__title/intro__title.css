@@ -1,0 +1,10 @@
+.intro__title {
+    margin: 0 0  16px 0;
+    width: fit-content;
+    font-family: Poppins;
+    font-size: 75px;
+    font-weight: 600;
+    line-height: 90px;
+    letter-spacing: -3px;
+    text-align: left;
+}

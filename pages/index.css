@@ -18,4 +18,29 @@
 @import url(../blocks/header/__search-container/header__search-container.css);
 @import url(../blocks/header/__search-icon/header__search-icon.css);
 
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__info-container/intro__info-container.css);
+@import url(../blocks/intro/__decorline/intro__decorline.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__btn-container/intro__btn-container.css);
+@import url(../blocks/intro/__btn/inrto__btn.css);
+@import url(../blocks/intro/__status-container/);
+@import url(../blocks/intro/__status-info/intro__status-info.css);
+@import url(../blocks/intro/__status-container/intro__status-container.css);
+@import url(../blocks/intro/__status-title/intro__status-title.css);
+@import url(../blocks/intro/__status-subtitle/intro__status-subtitle.css);
+@import url(../blocks/intro/__img/intro__img.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__logo-image/footer__logo-image.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__links/link/footer__link.css);
+@import url(../blocks/footer/__links/link/link__style.css);
+@import url(../blocks/footer/__decore-line/footer__decore-line.css);
+@import url(../blocks/footer/__author/footer__author.css);
+
 
