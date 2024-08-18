@@ -1,7 +1,8 @@
 .topnft__card-img {
-    position: relative;
     width: 252px;
     height: 252px;
-    border-radius: 23.48px;
+    border-radius: 23px;
     object-fit: cover;
+    margin: 15px 14px 18px;
+
 }

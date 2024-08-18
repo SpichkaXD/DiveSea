@@ -1,0 +1,13 @@
+.banner__shadow {
+    position: absolute;
+    width: 390px; 
+    height: 249px;
+    border-radius: 16px;
+    background-image: url(../../../image/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(53px); 
+    top: 25px;
+    right: 20px; 
+    z-index: 0; 
+}

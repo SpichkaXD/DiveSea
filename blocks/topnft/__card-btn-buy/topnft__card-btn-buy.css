@@ -1,3 +1,20 @@
 .topnft__card-btn-buy {
-    
+    width: 122px;
+    height: 52px;
+    background-color: var(--main-dark-color);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0.1px;
+    text-align: left;
+    color: #fff;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topnft__card-btn-buy:hover {
+    cursor: pointer;
 }

@@ -1,4 +1,6 @@
 .topnft {
-    padding: 70px 0 90px;
-    background-color: #FCFCFD;
+    padding-top: 70px;
+    background-color: #F1F1F1;
+
+    overflow: hidden;
 }

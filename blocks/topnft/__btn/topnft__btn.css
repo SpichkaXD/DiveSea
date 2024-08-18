@@ -1,3 +1,25 @@
 .topnft__btn {
+width: 82px;
+height: 68px;
+background-color: #FCFCFD;
+border: none;
+padding: 0;
+}
 
+.btn-left {
+    border-radius: 18px 0 0 18px;
+    background-image: url(../../../image/arrow\ active.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-right {
+    border-radius: 0 18px 18px 0;
+    background-image: url(../../../image/arrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.topnft__btn:hover {
+    cursor: pointer;
 }

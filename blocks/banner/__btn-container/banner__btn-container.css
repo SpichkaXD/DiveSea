@@ -1,0 +1,7 @@
+.banner__btn-container {
+    margin-top: 50px;
+    width: 396px;
+    height: 68px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,24 @@
+.banner__btn {
+    padding: 0;
+    color: var(--main-dark-color);
+    border-radius: 12px;
+    width: 183px;
+    height: 68px;
+    border: 1px solid #fff;
+    /* font-family: Outfit; */
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    text-align: center;
+}
+
+.banner__btn_unactive {
+    color: #fff;
+    background-color: var(--main-dark-color);
+    border: 2px solid #fff;
+}
+
+.banner__btn:hover {
+    cursor: pointer;
+}

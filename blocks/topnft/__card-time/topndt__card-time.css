@@ -1,0 +1,20 @@
+.topndt__card-time {
+    width: 116px;
+    height: 37px;
+    border-radius: 10px;
+    position: absolute;
+    right: 29px;
+    top: 24px;
+    background-color: rgba(28, 29, 32, 35%);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(28, 29, 32, 8%);
+    font-family: Poppins;
+    font-size: 14.12px;
+    font-weight: 500;
+    line-height: 21.17px;
+    letter-spacing: 0.11762604117393494px;
+    text-align: left;
+}

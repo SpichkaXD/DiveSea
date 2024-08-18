@@ -4,8 +4,6 @@
 
 @import url(../blocks/root.css);
 
-@import url(../blocks/banner/banner.css);
-
 @import url(../blocks/footer/footer.css);
 
 
@@ -33,7 +31,6 @@
 @import url(../blocks/intro/__img/intro__img.css);
 
 @import url(../blocks/topnft/topnft.css);
-@import url(../blocks/topnft/);
 @import url(../blocks/topnft/__title/topnft__title.css);
 @import url(../blocks/topnft/__slider-container/topnft__slider-container.css);
 @import url(../blocks/topnft/__card/topnft__card.css);
@@ -43,10 +40,24 @@
 @import url(../blocks/topnft/__card-price/topnft__card-price.css);
 @import url(../blocks/topnft/__card-subtitle/topnft__card-subtitle.css);
 @import url(../blocks/topnft/__card-price-img/topnft__card-price-img.css);
+@import url(../blocks/topnft/__card-time/topndt__card-time.css);
+@import url(../blocks/topnft/__card-price-container/topnft__card-price-container.css);
 @import url(../blocks/topnft/__card-price-total/topnft__card-price-total.css);
 @import url(../blocks/topnft/__card-btn-buy/topnft__card-btn-buy.css);
 @import url(../blocks/topnft/__btn-container/topnft__btn-container.css);
 @import url(../blocks/topnft/__btn/topnft__btn.css);
+@import url(../blocks/topnft/__btn-decorline/topnft__btn-decorline.css);
+
+@import url(../blocks/banner/banner.css);
+@import url(../blocks/banner/__container/banner__container.css);
+@import url(../blocks/banner/__titile/banner__titile.css);
+@import url(../blocks/banner/__subtitle/banner_subtitle.css);
+@import url(../blocks/banner/__btn-container/banner__btn-container.css);
+@import url(../blocks/banner/__btn/banner__btn.css);
+@import url(../blocks/banner/__img-container/banner__img-container.css);
+@import url(../blocks/banner/__shadow/banner__shadow.css);
+@import url(../blocks/banner/__img/banner__img.css);
+
 
 
 @import url(../blocks/footer/footer.css);

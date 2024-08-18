@@ -1,3 +1,6 @@
 .topnft__card-price-img {
-    
+    width: 22px;
+    height: 20px;
+    object-fit: contain;
+    margin-right: 4px;
 }

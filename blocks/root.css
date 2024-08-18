@@ -1,3 +1,5 @@
 .root {
     --main-dark-color: #141416;
+    max-width: 1440px;
+    margin: 0 auto;
 }
