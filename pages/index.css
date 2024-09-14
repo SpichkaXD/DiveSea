@@ -48,6 +48,17 @@
 @import url(../blocks/topnft/__btn/topnft__btn.css);
 @import url(../blocks/topnft/__btn-decorline/topnft__btn-decorline.css);
 
+@import url(../blocks/topcollect/topcollect.css);
+@import url(../blocks/topcollect/);
+@import url(../blocks/topcollect/__title/topcollect__title.css);
+@import url(../blocks/topcollect/__table/topcollect__table.css);
+@import url(../blocks/topcollect/__collection/topcollect__collection.css);
+@import url(../blocks/topcollect/__collection-text/topcollect__collection-text.css);
+@import url(../blocks/topcollect/__collection-name/topcollect__collection-name.css);
+@import url(../blocks/topcollect/__collection-author/topcollect__collection-author.css);
+@import url(../blocks/topcollect/__link/topcollect__link.css);
+
+
 @import url(../blocks/banner/banner.css);
 @import url(../blocks/banner/__container/banner__container.css);
 @import url(../blocks/banner/__titile/banner__titile.css);
@@ -71,4 +82,117 @@
 @import url(../blocks/footer/__decore-line/footer__decore-line.css);
 @import url(../blocks/footer/__author/footer__author.css);
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
+.topcollect {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 1000px;
+}
+
+.topcollect__title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.topcollect__container-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.topcollect__container-header {
+    background-color: #f1f1f1;
+}
+
+.topcollect__container-column {
+    padding: 15px 10px;
+    text-align: left;
+    font-size: 14px;
+    color: #666;
+}
+
+.topcollect__container-row {
+    border-top: 1px solid #e1e1e1;
+}
+
+.topcollect__container-cell {
+    padding: 15px 10px;
+    text-align: left;
+    font-size: 14px;
+    color: #333;
+}
+
+.collection {
+    display: flex;
+    align-items: center;
+}
+
+.collection__image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.collection__text {
+    display: flex;
+    flex-direction: column;
+}
+
+.collection__name {
+    font-weight: bold;
+    color: #333;
+}
+
+.collection__author {
+    font-size: 12px;
+    color: #999;
+}
+
+.topcollect__container-cell--positive {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.topcollect__link {
+    display: block;
+    text-align: right;
+    margin-top: 20px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.topcollect__link:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .topcollect {
+        width: 100%;
+    }
+
+    .topcollect__container-column,
+    .topcollect__container-cell {
+        font-size: 12px;
+        padding: 10px 5px;
+    }
+
+    .collection__image {
+        width: 30px;
+        height: 30px;
+    }
+}
