@@ -1,0 +1,5 @@
+.collection__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

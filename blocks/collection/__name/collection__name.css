@@ -1,0 +1,8 @@
+.collection__name {
+    font-family: Poppins;
+    font-size: 28.01px;
+    font-weight: 500;
+    line-height: 39.22px;
+    text-align: left;
+    color: var(--main-dark-color);
+}

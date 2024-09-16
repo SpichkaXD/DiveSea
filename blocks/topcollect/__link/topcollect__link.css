@@ -1,0 +1,14 @@
+.topcollect__link {
+    display: flex;
+    justify-content: right;
+    font-family: Poppins;
+    font-size: 17.67px;
+    font-weight: 500;
+    line-height: 39.92px;
+    color: #acadb9;
+    margin-top: 85px;
+}
+
+.topcollect__link:hover {
+    text-decoration: underline;
+}

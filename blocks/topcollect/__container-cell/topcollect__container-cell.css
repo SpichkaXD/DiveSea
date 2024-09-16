@@ -1,0 +1,16 @@
+.topcollect__container-cell {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 23.65px;
+    font-weight: 500;
+    line-height: 30.75px;
+    letter-spacing: 0.01em;
+}
+
+.topcollect__container-cell--positive {
+    color: #10c352;
+}
+
+.topcollect__container-cell--negative {
+    color: #E23333;
+}

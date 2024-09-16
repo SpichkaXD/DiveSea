@@ -1,0 +1,13 @@
+.topcollect__container-column {
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.6px;
+    letter-spacing: 0.01em;
+    color: #93989a;
+}
+
+.topcollect__container-column:first-child {
+    text-align: left;
+}
+

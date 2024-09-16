@@ -1,0 +1,9 @@
+.topcollect__container-row {
+    height: 110px;
+    border-bottom: 1.69px solid #ebe9e9;
+}
+
+.topcollect__container-row--header {
+    height: 90px;
+    border: none;
+}
